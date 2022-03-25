@@ -1,8 +1,7 @@
 <div align="center">
 <h1>Azimuth Normalization </h1>
-
-## AziNorm: Exploiting the Radial Symmetry of Point Cloud <br> for Azimuth-Normalized 3D Perception
-
+<span><font size="4", > AziNorm: Exploiting the Radial Symmetry of Point Cloud <br> for Azimuth-Normalized 3D Perception [CVPR 2022] </font></span>
+<br>
 by
 <br>
 Shaoyu Chen, <a href="https://xinggangw.info/">Xinggang Wang</a><sup><span>&#8224;</span></sup>, Tianheng Cheng, Wenqiang Zhang, <a href="https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN">Qian Zhang</a>, <a href="https://scholar.google.com/citations?user=IyyEKyIAAAAJ&hl=zh-CN">Chang Huang</a>, <a href="http://eic.hust.edu.cn/professor/liuwenyu/"> Wenyu Liu</a>
