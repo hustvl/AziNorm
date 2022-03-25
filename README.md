@@ -1,8 +1,7 @@
 <div align="center">
 <h1>Azimuth Normalization </h1>
 
-## AziNorm: Exploiting the Radial Symmetry of Point Cloud
-## for Azimuth-Normalized 3D Perception
+## AziNorm: Exploiting the Radial Symmetry of Point Cloud <br> for Azimuth-Normalized 3D Perception
 
 by
 <br>
